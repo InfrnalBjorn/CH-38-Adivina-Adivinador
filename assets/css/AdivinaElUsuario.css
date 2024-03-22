@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+#output {
+  margin-top: 20px;
+}
+
+.footer {
+  
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
